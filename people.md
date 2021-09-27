@@ -25,7 +25,7 @@ show-avatar: false
 
  <p align="center"> <a href="https://www.edinburgh-robotics.org/students/yaniel-carreno" style="float:">Yaniel Carreno</a> (PhD Stdt.) &nbsp; 
  <a href="https://www.edinburgh-robotics.org/students/jun-hao-alvin-ng" style="float: ;">Jun Hao Alvin Ng</a> (PhD Stdt.)  &nbsp; 
- <a href="https://www.edinburgh-robotics.org/students/gary-smith" style="float: ;">Gary Smith</a> (PhD Stdt.)  &nbsp;  
+ <a href="https://www.edinburgh-robotics.org/students/gary-smith" style="float: ;">Gary Smith</a> (PhD Stdt.)  &nbsp;  &nbsp;
  <a href="https://www.edinburgh-robotics.org/students/emanuele-de-pellegrin-cohort-student-representative" style="float: ;">Emanuele De Pellegrin</a> (PhD Stdt.)
   
 </p>
