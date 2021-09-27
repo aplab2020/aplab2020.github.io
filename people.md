@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: People @ APLab
+subtitle: APL@b People
 layout: page
 show-avatar: false
 ---
