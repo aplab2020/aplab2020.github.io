@@ -19,7 +19,7 @@ show-avatar: false
 
 
 <p align="center"> <img src="/img/yaniel.jpg" align="center" width="130" height="150">  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
-                   <img src="/img/alvin.jpg" align="center" width="140" height="150"> &nbsp; 
+                   <img src="/img/alvin.jpg" align="center" width="140" height="150"> &nbsp; &nbsp; &nbsp;  &nbsp;
                    <img src="/img/gary.jpg" align="center" width="130" height="150">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
                    <img src="/img/emanuelle.jpeg" align="center" width="130" height="150"></p>
 
