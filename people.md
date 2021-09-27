@@ -18,7 +18,7 @@ show-avatar: false
 
 <p align="center"> <img src="/img/alan.jpg" align="center" width="150" height="200"> &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; <img src="/img/bart.jpg" align="center" width="150" height="200"> </p>
 
-<p align="center"> <a href="https://researchportal.hw.ac.uk/en/persons/alan-lindsay" style="float: ;">Dr. Alan Lindsay</a>  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+<p align="center"> <a href="https://scholar.google.co.uk/citations?user=FA9LGEwAAAAJ&hl=en" style="float: ;">Dr. Alan Lindsay</a>  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                    <a href="https://scholar.google.ch/citations?hl=de&user=i8JsL7QAAAAJ&view_op=list_works" style="float: ;">Bart Craenen</a> 
 </p>
 
