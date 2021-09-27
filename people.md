@@ -5,7 +5,7 @@ layout: page
 show-avatar: false
 ---
 
-**Principal Investigator**
+**Principal Investigator**                  **Postdoctoral Researchers**
 
 <p align="center"> <img src="/img/ron.jpg" align="center" width="150" height="200"> </p>
 
