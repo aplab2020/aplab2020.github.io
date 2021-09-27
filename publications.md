@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: Publications @ APLab
+subtitle: APL@b Publications 
 layout: page
 show-avatar: false
 ---
