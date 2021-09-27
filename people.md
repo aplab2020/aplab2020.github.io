@@ -24,7 +24,7 @@ show-avatar: false
 
 **PhD Candidates**
 
-<p align="center"> <img src="/img/yaniel.jpg" align="center" width="150" height="200">   &nbsp;  &nbsp; &nbsp; <img src="/img/alvin.jpg" align="center" width="150" height="200">  &nbsp;  &nbsp; &nbsp; <img src="/img/gary.jpg" align="center" width="150" height="200"> &nbsp;  &nbsp; &nbsp; <img src="/img/emanuelle.jpeg" align="center" width="150" height="200"></p>
+<p align="center"> <img src="/img/yaniel.jpg" align="center" width="180" height="200">   &nbsp;  &nbsp; &nbsp; <img src="/img/alvin.jpg" align="center" width="150" height="200">  &nbsp;  &nbsp; &nbsp; <img src="/img/gary.jpg" align="center" width="150" height="200"> &nbsp;  &nbsp; &nbsp; <img src="/img/emanuelle.jpeg" align="center" width="150" height="200"></p>
 
 <p align="center"> <a href="https://www.edinburgh-robotics.org/students/yaniel-carreno" style="float: ;">Yaniel Carreno</a>      &nbsp; &nbsp; &nbsp; &nbsp;
                    <a href="https://www.edinburgh-robotics.org/students/jun-hao-alvin-ng" style="float: ;">Jun Hao Alvin Ng</a> &nbsp; &nbsp; &nbsp; &nbsp;
