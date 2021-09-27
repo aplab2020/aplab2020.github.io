@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: Research @ APLab
+subtitle: APL@b Research
 layout: page
 show-avatar: false
 ---
