@@ -9,8 +9,8 @@ navbar-links:
   People: "people"
   Research: "research"
   Publications: "publications"
-  Talks & Presentations: "talks"
-  Additional Info:
+  News: "news"
+  Additional Links:
     - GitHub: "https://github.com/aplab2020"
     - Twitter: "https://twitter.com/aplab"
 
