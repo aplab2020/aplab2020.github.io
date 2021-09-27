@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: PhD Candidate in Robotics and Autonomous Systems
+subtitle: People @ APLab
 layout: page
 show-avatar: false
 ---
