@@ -1,6 +1,10 @@
 
 **Invited Talks**
 
+-
+
+-
+
 
 **Presentations & Outreach**
 
@@ -10,7 +14,7 @@
 
 - ORCA Hub Webminar: AI Planning for Long-Term Autonomy. *Edinburgh, UK, July 2021 (online).* **[**[Presentation](https://www.youtube.com/watch?v=psE79dkN3oI)**]** 
 
-- ECR Annual Conference. *Edinburgh, UK, October 2020 (online).* **[**[Presentation](https://cdtinroboticsand.padlet.org/yanielcarreno/cxh04l9c14wq4z1r)**]**  
+- ECR Annual Conference. *Edinburgh, UK, October 2020 (online).*  
 
 - 30th ICAPS. *Nancy, France, October 2020 (online).*   **[**[Event Link](https://icaps20.icaps-conference.org/)**]**
 
