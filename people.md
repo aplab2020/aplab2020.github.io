@@ -16,19 +16,11 @@ show-avatar: false
 
 **Postdoctoral Researchers**
 
-<p align="center"> <img src="/img/alan.jpg" align="center" width="250" height="300"> </p>
+<p align="center"> <img src="/img/alan.jpg" align="center" width="250" height="300"> align="center"> <img src="/img/bart.jpg" align="center" width="250" height="300"> </p>
 
 <p align="center">
 <a href="https://researchportal.hw.ac.uk/en/persons/alan-lindsay" style="float: ;">Dr. Alan Lindsay</a> 
 </p>
-
-<p align="center"> <img src="/img/alan.jpg" align="center" width="250" height="300"> </p>
-
-<p align="center">
-<a href="https://researchportal.hw.ac.uk/en/persons/alan-lindsay" style="float: ;">Dr. Alan Lindsay</a> 
-</p>
-
-<p align="center"> <img src="/img/bart.jpg" align="center" width="250" height="300"> </p>
 
 <p align="center">
 <a href="https://scholar.google.ch/citations?hl=de&user=i8JsL7QAAAAJ&view_op=list_works" style="float: ;">Bart Craenen</a> 
