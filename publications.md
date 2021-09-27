@@ -6,10 +6,10 @@ show-avatar: false
 ---
 
 <p align="justify">
-- Carreno,  Y.**,  Scharff  Willners,  J.**,  Petillot,  Y.  R.,  and  Petrick, R. P. A., 2021.  Situation-Aware Task Planning for Robust AUV Exploration in Extreme Environments. In IJCAI Workshop on Robust and Reliable Autonomy in the Wild (R2AW). </p> ([pdf](http://rbr.cs.umass.edu/r2aw/papers/R2AW_paper_14.pdf))
+- Carreno,  Y.**,  Scharff  Willners,  J.**,  Petillot,  Y.  R.,  and  Petrick, R. P. A., 2021.  Situation-Aware Task Planning for Robust AUV Exploration in Extreme Environments. In IJCAI Workshop on Robust and Reliable Autonomy in the Wild (R2AW). </p>([pdf](http://rbr.cs.umass.edu/r2aw/papers/R2AW_paper_14.pdf))
    
 <p align="justify">
- - Carreno, Y., Petillot,  Y., Petrick, R.P.A., 2021. Compiling Contingent Planning into Temporal Planning for Robust AUV Deployments. In Proceedings ICAPS Workshop on Planning and Robotics (PlanRob). </p> ([pdf](https://www.dropbox.com/sh/k002b07gqcnhuyk/AAA9yVEvYl5JGuR6tNmga_M9a?dl=0&preview=PlanRob_2021_paper_23.pdf))
+ - Carreno, Y., Petillot,  Y., Petrick, R.P.A., 2021. Compiling Contingent Planning into Temporal Planning for Robust AUV Deployments. In Proceedings ICAPS Workshop on Planning and Robotics (PlanRob). </p>([pdf](https://www.dropbox.com/sh/k002b07gqcnhuyk/AAA9yVEvYl5JGuR6tNmga_M9a?dl=0&preview=PlanRob_2021_paper_23.pdf))
    
 <p align="justify">
  - Carreno, Y.**, Le Bras, P.**, Pairet, È., Ardón, P., Chantler, M. J., Petrick, R. P. A., 2021. An Integrated Framework for Remote Planning. In Proceedings ICAPS Workshop on Integrated Planning, Acting, and Execution (IntEx). </p> ([pdf]())
