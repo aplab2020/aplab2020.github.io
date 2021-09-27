@@ -7,7 +7,7 @@ show-avatar: false
 
 **Principal Investigator**
 
-<p align="center"> <img src="/img/ron.jpg" align="center" width="250" height="300"> </p>
+<p align="center"> <img src="/img/ron.jpg" align="center" width="200" height="250"> </p>
 
 <p align="center">
 <a href="http://homepages.inf.ed.ac.uk/rpetrick/" style="float: ;">Dr. Ron Petrick</a> 
@@ -16,7 +16,7 @@ show-avatar: false
 
 **Postdoctoral Researchers**
 
-<p align="center"> <img src="/img/alan.jpg" align="center" width="250" height="300"> align="center"> <img src="/img/bart.jpg" align="center" width="250" height="300"> </p>
+<p align="center"> <img src="/img/alan.jpg" align="center" width="200" height="250"> <img src="/img/bart.jpg" align="center" width="250" height="300"> </p>
 
 <p align="center">
 <a href="https://researchportal.hw.ac.uk/en/persons/alan-lindsay" style="float: ;">Dr. Alan Lindsay</a> 
