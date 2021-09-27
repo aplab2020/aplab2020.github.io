@@ -1,0 +1,8 @@
+@inproceedings{carreno2019towards,
+  title={Towards Long-Term Autonomy Based on Temporal Planning},
+  author={Carreno, Yaniel and Petrick, Ronald P A and Petillot, Yvan},
+  booktitle={Annual Conference Towards Autonomous Robotic Systems},
+  pages={143--154},
+  year={2019},
+  organization={Springer}
+}

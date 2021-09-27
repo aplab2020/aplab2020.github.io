@@ -1,0 +1,6 @@
+@inproceedings{carreno2019multi,
+  title={Multi-Vehicle Temporal Planning for Underwater Applications},
+  author={Carreno, Yaniel and Petillot, Yvan and Petrick, Ronald P A},
+  booktitle={Proceedings of ICAPS Workshop on Planning and Robotics (PlanRob)},
+  year={2019}
+}

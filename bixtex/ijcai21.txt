@@ -1,0 +1,6 @@
+@inproceedings{carrenoijcai2021,
+  title = {{Situation-Aware Task Planning for Robust AUV Exploration in Extreme Environments}},
+  author = {Carreno, Yaniel and Scharff Willners, Jonatan and Petillot, Yvan R. and Petrick, Ronald P. A.},
+  booktitle={Proceedings of the {IJCAI} Workshop on Robust and Reliable Autonomy in the Wild (R2AW)},
+  year={2021}
+}

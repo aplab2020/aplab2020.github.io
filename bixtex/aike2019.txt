@@ -1,0 +1,8 @@
+@inproceedings{carreno2019multi,
+  title={Multi-agent Strategy for Marine Applications via Temporal Planning},
+  author={Carreno, Yaniel and Petrick, Ronald PA and Petillot, Yvan},
+  booktitle={2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)},
+  pages={243--250},
+  year={2019},
+  organization={IEEE}
+}
