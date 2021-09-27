@@ -15,8 +15,10 @@ show-avatar: false
 <a href="https://scholar.google.ch/citations?hl=de&user=i8JsL7QAAAAJ&view_op=list_works" style="float: ;">Bart Craenen</a> (Postdoctoral Researcher) 
 </p>
 
+**PhD Candidates**
 
-<p align="center"> <img src="/img/yaniel.jpg" align="center" width="130" height="150"> &nbsp;  &nbsp; &nbsp; <img src="/img/alvin.jpg" align="center" width="130" height="150">  &nbsp;  &nbsp; &nbsp; <img src="/img/gary.jpg" align="center" width="130" height="150"> &nbsp;  &nbsp; &nbsp; <img src="/img/emanuelle.jpeg" align="center" width="130" height="150"></p>
+
+<p align="center"> <img src="/img/yaniel.jpg" align="center" width="130" height="150"> &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/alvin.jpg" align="center" width="130" height="150">  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/gary.jpg" align="center" width="130" height="150"> &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/emanuelle.jpeg" align="center" width="130" height="150"></p>
 
  <p align="center">  &nbsp; &nbsp; <a href="https://www.edinburgh-robotics.org/students/yaniel-carreno" style="float: &nbsp; &nbsp; &nbsp; &nbsp;">Yaniel Carreno</a>      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
                    <a href="https://www.edinburgh-robotics.org/students/jun-hao-alvin-ng" style="float: ;">Jun Hao Alvin Ng</a>  &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;                    <a href="https://www.edinburgh-robotics.org/students/gary-smith" style="float: ;">Gary Smith</a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
