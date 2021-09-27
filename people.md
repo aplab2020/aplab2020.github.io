@@ -10,8 +10,8 @@ show-avatar: false
 <p align="center"> <img src="/img/ron.jpg" align="center" width="150" height="180"> &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; <img src="/img/alan.jpg" align="center" width="150" height="180"> &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; <img src="/img/bart.jpg" align="center" width="150" height="180"> </p>
 
 <p align="center">
-<a href="http://homepages.inf.ed.ac.uk/rpetrick/" style="float: ;">Dr. Ron Petrick</a> (Principal Investigator) &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;
-<a href="https://scholar.google.co.uk/citations?user=FA9LGEwAAAAJ&hl=en" style="float: ;">Dr. Alan Lindsay</a> (Postdoctoral Researcher)  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="http://homepages.inf.ed.ac.uk/rpetrick/" style="float: ;">Dr. Ron Petrick</a> (Principal Investigator) &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;
+<a href="https://scholar.google.co.uk/citations?user=FA9LGEwAAAAJ&hl=en" style="float: ;">Dr. Alan Lindsay</a> (Postdoctoral Researcher) &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://scholar.google.ch/citations?hl=de&user=i8JsL7QAAAAJ&view_op=list_works" style="float: ;">Bart Craenen</a> (Postdoctoral Researcher) 
 </p>
 
