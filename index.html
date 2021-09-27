@@ -1,1 +1,63 @@
-Hello World
+---
+title: ""
+subtitle: AUTOMATED PLANNING LAB
+layout: page
+---
+<body>
+<p align="center">
+<img src="/img/yaniel.jpg" align="center" width="400" height="300">
+</p>
+</body>
+
+<p align="center">
+"We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing<br/>
+</p>
+<p align="center">
+Edinburgh Centre for Robotics<br/>
+Department of Computer Science, School of Mathematical and Computer Sciences
+Heriot-Watt University<br/>
+Robotarium West, EH14 4AS, Edinburgh, United Kingdom<br/>
+
+</p>
+
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry">
+      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
