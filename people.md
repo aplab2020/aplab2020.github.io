@@ -7,7 +7,7 @@ show-avatar: false
 
 
 
-<p align="center"> <img src="/img/ron.jpg" align="center" width="150" height="180">   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; <img src="/img/alan.jpg" align="center" width="150" height="180">  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; <img src="/img/bart.jpg" align="center" width="150" height="180"> </p>
+<p align="center"> <img src="/img/ron.jpg" align="center" width="150" height="180">   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; <img src="/img/alan.jpg" align="center" width="150" height="180">  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/img/bart.jpg" align="center" width="150" height="180"> </p>
 
 <p align="center">
 <a href="http://homepages.inf.ed.ac.uk/rpetrick/" style="float: ;">Dr. Ron Petrick</a> (APLab Director) &nbsp;  &nbsp; &nbsp;   
@@ -18,7 +18,7 @@ show-avatar: false
 
 
 
-<p align="center"> <img src="/img/yaniel.jpg" align="center" width="130" height="150">  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
+<p align="center"> <img src="/img/yaniel.jpg" align="center" width="130" height="150">  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                    <img src="/img/alvin.jpg" align="center" width="130" height="150"> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;
                    <img src="/img/gary.jpg" align="center" width="130" height="150">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;
                    <img src="/img/emanuelle.jpeg" align="center" width="100" height="150"> &nbsp; &nbsp;  &nbsp;  &nbsp; </p>
