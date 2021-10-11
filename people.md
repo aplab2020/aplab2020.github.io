@@ -7,7 +7,7 @@ show-avatar: false
 
 
 
-<p align="center"> <img src="/img/ron.jpg" align="center" width="150" height="180">   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 
+<p align="center"> <img src="/img/ron.jpg" align="center" width="150" height="180">   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
                    <img src="/img/alan.jpg" align="center" width="150" height="180">  &nbsp;  &nbsp;   &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
                    <img src="/img/bart.jpg" align="center" width="150" height="180"> </p>
 
